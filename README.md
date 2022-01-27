@@ -1,4 +1,2 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sohail-Ahmad-PRO&label=Profile%20views&color=0e75b6&style=flat" alt="Sohail-Ahmad-PRO" /> </p>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sohail-ahmad-pro&show_icons=true&theme=tokyonight" />
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohailahmad0001" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohailahmad0001?trk=profile-badge">Sohail Ahmad</a></div>
+              
